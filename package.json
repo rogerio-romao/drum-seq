@@ -1,0 +1,19 @@
+{
+  "name": "drum-seq",
+  "version": "0.1.0",
+  "description": "A tone.js based drum step sequencer",
+  "main": "src/app.js",
+  "source": "src/index.html",
+  "repository": "https://github.com/github:rogerio-romao/drum-seq",
+  "author": "Rogerio Romao <58592935+rogerio-romao@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
